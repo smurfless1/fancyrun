@@ -1,4 +1,4 @@
-package lib
+package fancyrun
 
 import "github.com/sirupsen/logrus"
 

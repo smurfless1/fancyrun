@@ -1,4 +1,4 @@
-package lib
+package fancyrun
 
 import (
 	"fmt"
@@ -15,4 +15,3 @@ func TestFancyRun(t *testing.T) {
 	fmt.Println(result.ProcessState.ExitCode())
 	assert.Nil(t, err)
 }
-
